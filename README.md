@@ -1,6 +1,5 @@
 # student_manager
-studentdemo
-#该项目是软件工程实验作业
+studentdemo 该项目是软件工程实验作业
 ## 技术
 1. maven进行依赖管理
 2. JavaWeb进行请求处理
